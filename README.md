@@ -1,15 +1,14 @@
-Here’s the content formatted as Markdown code:
 
 # Harsha Kumarasingha
 
-## Aspiring Software Engineer
+## Aspiring Software Engineer/DevOps Engineer
 
 ![GitHub](https://img.shields.io/github/followers/HarshaKTM?label=Follow&style=social)
 
 ### About Me
 
 - Undergraduate student pursuing a **BSc (Hons) in Software Engineering**.
-- Proficient in **Java**, **JavaScript**, and **Python**.
+- Proficient in **Java**, **JavaScript**,**React** and **Python**.
 - Passionate about developing innovative software solutions and continuously enhancing my programming skills.
 
 ### Technical Skills
