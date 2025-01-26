@@ -4,10 +4,10 @@
 
 ## 🚀 About Me
 - 🎓 Undergraduate student pursuing a BSc (Hons) in Software Engineering
-- 💻 Full-stack developer with expertise in modern web technologies
+- 💻 Full-stack developer with modern web technologies
 - 📚 Currently exploring DevOps engineering with a focus on tools like Docker, Kubernetes, Jenkins, and CI/CD pipelines
-🔍 Experienced in Quality Assurance (QA), including manual and automated testing using Selenium and other tools
-🌈 Committed to continuous learning and collaborating on innovative projects
+- 🔍 Experienced in Quality Assurance (QA), including manual and automated testing using Selenium and other tools
+- 🌈 Committed to continuous learning and collaborating on innovative projects
 - 🌟 Passionate about building scalable and innovative software solutions
 
 ## 💻 Technical Skills
