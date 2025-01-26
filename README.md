@@ -5,6 +5,9 @@
 ## 🚀 About Me
 - 🎓 Undergraduate student pursuing a BSc (Hons) in Software Engineering
 - 💻 Full-stack developer with expertise in modern web technologies
+- 📚 Currently exploring DevOps engineering with a focus on tools like Docker, Kubernetes, Jenkins, and CI/CD pipelines
+🔍 Experienced in Quality Assurance (QA), including manual and automated testing using Selenium and other tools
+🌈 Committed to continuous learning and collaborating on innovative projects
 - 🌟 Passionate about building scalable and innovative software solutions
 
 ## 💻 Technical Skills
@@ -28,6 +31,12 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&animation=fadeIn)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white&animation=fadeIn)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white&animation=fadeIn)
+
+## 🔍 QA Tools and Experience
+- Automated testing using Selenium WebDriver for web applications
+- Manual testing for functional, regression, and user acceptance testing (UAT)
+- Experience with API testing using Postman
+- Writing detailed test cases and managing bug tracking systems
 
 ## 🏆 Certifications
 - 🔧 Jenkins Certification Training: Continuous integration and server automation
