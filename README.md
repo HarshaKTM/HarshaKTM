@@ -45,6 +45,9 @@
 - 🌐 Selenium Automation Testing: Web application testing automation
 - 🔄 Agile Methodology: Iterative development and team collaboration
 
+- ## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=HarshaKTM&color=blueviolet&style=flat-square)
+
 ## 📊 GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshaKTM&show_icons=true&theme=radical&animation=fadeIn)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaKTM&layout=compact&theme=radical&animation=fadeIn)
