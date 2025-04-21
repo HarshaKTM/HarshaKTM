@@ -31,6 +31,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&animation=fadeIn)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white&animation=fadeIn)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white&animation=fadeIn)
+![Kubernate](https://img.shields.io/badge/-Kubernate-232F3E?style=flat-square&logo=amazonaws&logoColor=white&animation=fadeIn)
 
 ## 🔍 QA Tools and Experience
 - Automated testing using Selenium WebDriver for web applications
