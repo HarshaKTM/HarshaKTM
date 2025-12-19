@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 - 🎓 Undergraduate student pursuing a BSc (Hons) in Software Engineering  
-- 💻 Full-stack developer with modern web technologies  
+- 💻 Associate Cloud and DevOps Engineering 
 - 📚 Currently exploring DevOps engineering (Docker, Kubernetes, Jenkins, CI/CD)  
 - 🔍 Experienced in Quality Assurance (QA), including Selenium automation  
 - 🌈 Committed to continuous learning and collaboration  
