@@ -1,7 +1,7 @@
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Harsha%20Kumarasingha&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=DevOps%20%7C%20Cloud%20%7C%20MLOps%20%7C%20AIOps%20Engineer&descSize=18&descAlignY=70)
 
 <p align="center">
-  <a href="https://linkedin.com/in/harsha-k-thennakoon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/harshaktm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:Harshakumara1998030944@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/HarshaKTM"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=HarshaKTM&style=for-the-badge&color=0e75b6&label=Profile+Views"/>
@@ -159,7 +159,7 @@ I am transitioning my engineering focus toward the **DevOps → Cloud → MLOps 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/harsha-k-thennakoon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/harshaktm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:Harshakumara1998030944@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://discord.gg/harshakthennakoonkiller"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
